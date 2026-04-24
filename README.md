@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tri</h1>
 <h3 align="center">A passionate engineer in data and security in the US</h3>
 
-- 🔭 I’m currently working on [VulnOps](https://github.com/tninh/VulnOps)
+- 🔭 I’m currently working on [VulnOps](https://github.com/tninh/VulnOps), [CloudOps-Sentinel](https://github.com/tninh/cloudops-sentinel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
