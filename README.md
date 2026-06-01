@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tri</h1>
-<h3 align="center">A passionate engineer in data and security in the US</h3>
+# Hi 👋, I'm Tri
 
-- 🔭 I’m currently working on [VulnOps](https://github.com/tninh/VulnOps), [CloudOps-Sentinel](https://github.com/tninh/cloudops-sentinel)
+### A passionate engineer in data and security in the US
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trininh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trininh" height="30" width="40" /></a>
-</p>
+- 🔭 I'm currently working on [VulnOps](https://github.com/tninh/VulnOps) and [CloudOps-Sentinel](https://github.com/tninh/CloudOps-Sentinel)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tninh&show_icons=true&locale=en&layout=compact" alt="tninh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tninh&show_icons=true&locale=en" alt="tninh" /></p>
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=csharp&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B4A0?style=for-the-badge&logo=servicenow&logoColor=white)
+
+---
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tninh)
